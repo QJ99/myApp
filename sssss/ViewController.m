@@ -19,7 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"-----------------");
     for (int i = 0; i<100; i++) {
-        NSLog(@"%%%%%%%%%%%%%--------------%d",i);
+        NSLog(@"--------------%d",i);
+        NSLog(@"hehehehehe");
     }
 }
 
